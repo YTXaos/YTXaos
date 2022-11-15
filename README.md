@@ -9,7 +9,7 @@ I'm a full stack website developer. I started web development over two years ago
 - Python
 I'm not a professional in Python, however, I have made web applications with it.
 # Where to contact me?
-You can contact me by emailing me at flounderinc.official@gmail.com or using the [contact form](https://flounder.epizy.com/contact) in my [website](https://flounder.epizy.com).
+You can contact me by emailing me at flounderinc.official@gmail.com or using the [contact form](https://flounder.epizy.com/contact/) in my [website](https://flounder.epizy.com).
 # Other medias
 - [Stackoverflow](https://stackoverflow.com/users/14539093/yt-xaos) and [Stackoverflow #2](https://stackoverflow.com/users/19958185/simplyrandom) (Temporary)
 - [Replit](https://replit.com/@ytxaos)
