@@ -7,6 +7,7 @@ I'm a full stack website developer. I started web development over two years ago
 - PHP
 - MySQL
 - Python
+
 I'm not a professional in Python, however, I have made web applications with it.
 # Where to contact me?
 You can contact me by emailing me at flounderinc.official@gmail.com or using the [contact form](https://flounder.epizy.com/contact/) in my [website](https://flounder.epizy.com).
